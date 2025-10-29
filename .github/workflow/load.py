@@ -1,0 +1,1 @@
+print("load data from GCP pipeline")
